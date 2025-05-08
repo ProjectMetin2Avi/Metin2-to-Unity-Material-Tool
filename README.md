@@ -2,7 +2,7 @@
 
 This repository contains Unity Editor tools to help with material extraction and texture conversion specifically designed for Metin2 to Unity workflow.
 
-## 🔧 Tools Included
+## Tools Included
 
 ### 1. Batch Material Extractor
 A Unity Editor tool that helps extract and manage materials from 3D models.
@@ -16,13 +16,13 @@ A Unity Editor tool that helps extract and manage materials from 3D models.
 ### 2. Texture to Material Converter
 A simple Unity Editor tool that converts texture files to material assets with a single click.
 
-**Features:**
+** Features:**
 - Convert multiple textures (PNG, JPG) to materials at once
 - Specify input texture folder and output material folder
 - Choose default shader for generated materials
 - User-friendly interface
 
-## 📝 How to Use
+## How to Use
 
 ### Batch Material Extractor
 1. Access the tool from Unity's menu via `Tools > Batch Material Extractor`
@@ -37,11 +37,11 @@ A simple Unity Editor tool that converts texture files to material assets with a
 4. Select the default shader to use
 5. Click "Generate Materials" to create material assets for each texture
 
-## 🔍 Requirements
+## Requirements
 - Unity 2019.1 or newer
 - Textures should be imported into the Unity project before conversion
 
-## 🧩 Integration
+## Integration
 These tools are part of a larger Metin2 to Unity conversion workflow. They can be used independently or as part of the complete map conversion process.
 
 ---
@@ -50,7 +50,7 @@ These tools are part of a larger Metin2 to Unity conversion workflow. They can b
 
 Bu depo, Metin2'den Unity'ye dönüşüm iş akışı için özel olarak tasarlanmış materyal çıkarma ve doku dönüştürme Unity Editör araçlarını içerir.
 
-## 🔧 İçerilen Araçlar
+## İçerilen Araçlar
 
 ### 1. Toplu Materyal Çıkarıcı
 3D modellerden materyalleri çıkarmaya ve yönetmeye yardımcı olan bir Unity Editör aracı.
@@ -70,7 +70,7 @@ Doku dosyalarını tek tıklamayla materyal varlıklarına dönüştüren basit 
 - Oluşturulan materyaller için varsayılan shader seçimi
 - Kullanıcı dostu arayüz
 
-## 📝 Nasıl Kullanılır
+## Nasıl Kullanılır
 
 ### Toplu Materyal Çıkarıcı
 1. Unity menüsünden araca erişin: `Tools > Batch Material Extractor`
@@ -85,16 +85,16 @@ Doku dosyalarını tek tıklamayla materyal varlıklarına dönüştüren basit 
 4. Kullanılacak varsayılan shader'ı seçin
 5. Her doku için materyal varlıkları oluşturmak için "Generate Materials" düğmesine tıklayın
 
-## 🔍 Gereksinimler
+## Gereksinimler
 - Unity 2019.1 veya daha yeni bir sürüm
 - Dönüştürme öncesinde dokuların Unity projesine aktarılmış olması gerekir
 
-## 🧩 Entegrasyon
+## Entegrasyon
 Bu araçlar, daha geniş bir Metin2'den Unity'ye dönüşüm iş akışının parçasıdır. Bağımsız olarak veya tam harita dönüştürme sürecinin bir parçası olarak kullanılabilirler.
 
 ---
 
-## 📬 Contact / İletişim
+## Contact / İletişim
 - Instagram: [@metin2.avi](https://www.instagram.com/metin2.avi/)
 - Discord: [Join Server](https://discord.gg/WZMzMgPp38)
 - YouTube: [@project_avi](https://www.youtube.com/@project_avi)
