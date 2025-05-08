@@ -1,5 +1,11 @@
 # Metin2 to Unity Material Tools
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-2020.3%2B-blue" alt="Unity Version">
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
+  <img src="https://img.shields.io/badge/Metin2-Map%20Tools-orange" alt="Metin2 Map Tools">
+</p>
+
 This repository contains Unity Editor tools to help with material extraction and texture conversion specifically designed for Metin2 to Unity workflow.
 
 ## Tools Included
